@@ -2,6 +2,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 		<title>Layanan Web</title>
+		<link rel="stylesheet" href="css/style.css" type="text/css" charset="utf-8" />
 	</head>
 	
 	<body>
