@@ -1,5 +1,5 @@
 body{
-	background-color:#272834;
+	background-color:#66FFFF;
 	margin: 0;
 }
 #background{
@@ -234,7 +234,7 @@ p a{
     float: left;
     height: 25px;
     width: auto;
-	color: #9f9dab;
+	color: #000000;
 	font-family: arial;
 	font-size: 14px;
 	text-decoration: none;
@@ -249,7 +249,7 @@ p a{
     float: left;
     height: 25px;
     width: auto;
-	color: #9f9dab;
+	color: #000000;
 	font-family: arial;
 	font-size: 14px;
 	text-decoration: none;
@@ -354,7 +354,7 @@ p a{
 }
 .body h1{
 	font-family: helvetica, arial;
-	color: #c3e8ec;
+	color: #000000;
 	font-size: 33px;
 	clear: both;
 	text-transform: uppercase;
@@ -364,7 +364,7 @@ p a{
 	text-shadow: 0 -1px 0 #1f202b;
 }
 .body h1 a{
-	color: #c3e8ec;
+	color: #000000;
 	text-decoration: none;
 }
 .body ul.navigation{
