@@ -15,4 +15,4 @@ Tugas Besar 1 Layanan Web
 <br />
 <br />
 
-<h2>B - 2011</h2>
+<h2>B 2011</h2>
