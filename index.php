@@ -39,13 +39,14 @@
 					// Now, $items contains a class version of a <item> tag.
 					// So, if I'd like to print only the title of news item:
 					foreach($items as $item){
-					echo $item->title.'\n';
+					echo $item->title."<br/>";
 					}
 					?>
 					<br/>
 					<br/>
 					<br/>
 					<?php
+					echo "Data BMKG Cuaca <br/>";
 					$url = "http://data.bmkg.go.id/cuaca_indo_1.xml";
 					$sUrl = file_get_contents($url, False);
 					$xml = simplexml_load_string($sUrl);
